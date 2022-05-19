@@ -16,7 +16,7 @@
   },
   "main": "background.js",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.2",
     "cardano-crypto.js": "^6.0.0",
     "core-js": "^3.6.5",
     "dayjs": "^1.10.3",
